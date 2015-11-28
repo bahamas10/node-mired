@@ -1,0 +1,25 @@
+{
+  "name": "mired",
+  "version": "0.0.0",
+  "description": "Convert between Mired (micro reciprocal degree) and temperature",
+  "main": "mired.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bahamas10/node-mired.git"
+  },
+  "keywords": [
+    "mired",
+    "kelvin",
+    "color",
+    "temperature"
+  ],
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahamas10/node-mired/issues"
+  },
+  "homepage": "https://github.com/bahamas10/node-mired#readme"
+}
